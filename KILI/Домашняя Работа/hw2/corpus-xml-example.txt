@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><html><head>
+</head>
+<body>
+<p><se>
+<w><ana lex="национальный" gr="A=m,sg,nom,plen"></ana>Национ`альный</w>
+<w><ana lex="корпус" gr="S,m,inan=sg,nom"></ana>к`орпус</w>
+<w><ana lex="создаваться" gr="V,ipf,intr,med=3,sg,praes,indic"></ana>создаётся</w>
+<w><ana lex="лингвист" gr="S,m,inan=pl,ins"></ana>лингв`истами</w>
+(<w><ana lex="специалист" gr="S,m,inan=pl,ins"></ana>специал`истами</w>
+<w><ana lex="по" gr="PR"></ana>по</w>
+<w><ana lex="так" gr="ADV"></ana>так</w>
+<w><ana lex="называть" gr="V,ipf,tran,act=partcp,f,sg,dat,pass,praes"></ana>назыв`аемой</w>
+<w><ana lex="корпусный" gr="A=f,sg,dat,plen"></ana>к`орпусной</w>
+<w><ana lex="лингвистика" gr="S,f,inan=sg,dat"></ana>лингв`истике</w>,
+<w><ana lex="быстро" gr="ADV"></ana>б`ыстро</w>
+<w><ana lex="развиваться" gr="V,ipf,intr,med=partcp,f,sg,dat,praes"></ana>развив`ающейся</w>
+<w><ana lex="современный" gr="A=f,sg,dat,plen"></ana>соврем`енной</w>
+<w><ana lex="область" gr="S,f,inan=sg,dat"></ana>`области</w>
+<w><ana lex="языкознание" gr="S,n,inan=sg,gen"></ana>языкозн`ания</w>)
+<w><ana lex="для" gr="PR"></ana>для</w>
+<w><ana lex="научный" gr="A=pl,gen,plen"></ana>на`учных</w>
+<w><ana lex="исследование" gr="S,n,inan=pl,gen"></ana>иссл`едований</w>
+<w><ana lex="и" gr="CONJ"></ana>и</w>
+<w><ana lex="обучение" gr="S,n,inan=sg,gen"></ana>обуч`ения</w>
+<w><ana lex="язык" gr="S,m,inan=sg,dat"></ana>язык`у</w>.
+</se></p>
+</body></html>
